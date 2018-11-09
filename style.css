@@ -1,0 +1,12 @@
+.main{
+    width: 1000px;
+    height:430px;
+  padding: 25px;
+  border: 25px solid navy;
+  margin: 25px;
+  align-items: center;
+}
+
+ul{
+  list-style-type: none;
+}
